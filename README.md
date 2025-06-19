@@ -62,7 +62,7 @@ Os dados são manipulados diretamente por leitura e escrita nesses arquivos.
 
 ---
 
-##⏳ Tempo de Desenvolvimento
+## ⏳ Tempo de Desenvolvimento
 
 O projeto foi desenvolvido em cerca de 40 horas, distribuídas ao longo de 5 dias:
 
@@ -74,7 +74,7 @@ O projeto foi desenvolvido em cerca de 40 horas, distribuídas ao longo de 5 dia
 
 ---
 
-##📝 Observações
+## 📝 Observações
 
 - Projeto desenvolvido inteiramente por um único aluno, sem auxílio de bibliotecas externas.
 - O código foi mantido em um único arquivo .c por motivo de prazo curto e foco em funcionalidade.
@@ -83,7 +83,7 @@ O projeto foi desenvolvido em cerca de 40 horas, distribuídas ao longo de 5 dia
 
 ---
 
-##📎 Requisitos Técnicos Demonstrados
+## 📎 Requisitos Técnicos Demonstrados
 
 - Estruturas (struct)
 - Manipulação de arquivos em C
